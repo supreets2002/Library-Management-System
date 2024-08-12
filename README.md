@@ -1,0 +1,1 @@
+Developed a comprehensive Library Management System using Python, SQLite, and Tkinter. The application supports CRUD operations for managing authors, books, members, and borrow records, featuring an intuitive GUI for seamless interaction.
